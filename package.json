@@ -1,0 +1,21 @@
+{
+  "name": "puredarkness",
+  "displayName": "PureDarkness",
+  "description": "Feel Darkness Accept Darkness and code in Darkness",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZlaamTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZlaamTheme-color-theme.json"
+      }
+    ]
+  }
+}
