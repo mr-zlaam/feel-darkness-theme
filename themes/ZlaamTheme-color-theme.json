@@ -196,7 +196,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -256,7 +256,7 @@
         "keyword.control.def.ruby"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -321,7 +321,8 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#59cdff"
+        "foreground": "#80fff9",
+        "fontStyle": "bold"
       }
     },
     {
@@ -386,7 +387,8 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#ddff00"
+        "foreground": "#c0c0c0",
+        "fontStyle": "italic bold underline"
       }
     },
     {
@@ -427,7 +429,7 @@
         "meta.definition.attribute-entry punctuation.separator"
       ],
       "settings": {
-        "foreground": "#bbdae8e3",
+        "foreground": "#00DDff",
         "fontStyle": "bold"
       }
     },
@@ -489,7 +491,7 @@
         "source.zig keyword.structure"
       ],
       "settings": {
-        "foreground": "#e5ff00",
+        "foreground": "#ddff00",
         "fontStyle": "italic bold "
       }
     },
@@ -550,7 +552,7 @@
       ],
       "settings": {
         "foreground": "#83ccf9",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic bold underline"
       }
     },
     {
@@ -577,7 +579,8 @@
         "source.tf support.class"
       ],
       "settings": {
-        "foreground": "#ffffffea"
+        "foreground": "#00a2ff",
+        "fontStyle": ""
       }
     },
     {
@@ -614,7 +617,8 @@
         "entity.name.scope-resolution.function.call"
       ],
       "settings": {
-        "foreground": "#49d6e9"
+        // "foreground": "#49d6e9"
+        "foreground": "#ddff00"
       }
     },
     {
@@ -782,7 +786,7 @@
         "source.zig keyword.structure"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic bold "
       }
     },
     {
@@ -846,7 +850,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "bold "
       }
     },
     {
