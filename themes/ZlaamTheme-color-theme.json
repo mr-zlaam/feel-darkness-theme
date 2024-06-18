@@ -1,5 +1,5 @@
 {
-  "name": "pureDarkness",
+  "name": "feel-darkness",
   "type": "dark",
   "colors": {
     "window.activeBorder": "#000000",
@@ -61,7 +61,7 @@
     "editorInfo.foreground": "#ffffff",
     "editorHint.border": "#49e9a600",
     "editorHint.foreground": "#49e9a6",
-    "editorGroup.emptyBackground": "#000000", // Ensure empty group background is black
+    "editorGroup.emptyBackground": "#000000",
     "editorGroup.border": "#0f1315",
     "editorGroup.dropBackground": "#4d6c8033",
     "editorGroupHeader.noTabsBackground": "#000000",
