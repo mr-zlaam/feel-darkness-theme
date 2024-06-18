@@ -1,18 +1,23 @@
 {
-  "name": "puredarkness",
-  "displayName": "PureDarkness",
+  "name": "feel-darkness",
+  "displayName": "feel-darkness",
   "description": "Feel Darkness Accept Darkness and code in Darkness",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "zlaam-dev",
+  "icon": "/images/128x128-logo.jpg",
   "engines": {
     "vscode": "^1.86.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/mr-zlaam/Zlaam-VsCode-Theme"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "ZlaamTheme",
+        "label": "feel-darkness",
         "uiTheme": "vs-dark",
         "path": "./themes/ZlaamTheme-color-theme.json"
       }
