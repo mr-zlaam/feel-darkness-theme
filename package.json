@@ -2,9 +2,9 @@
   "name": "feel-darkness",
   "displayName": "feel-darkness",
   "description": "Feel Darkness Accept Darkness and code in Darkness",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "zlaam-dev",
-  "icon": "/images/128x128-logo.jpg",
+  "icon": "images/128x128-logo.jpg",
   "engines": {
     "vscode": "^1.86.0"
   },
