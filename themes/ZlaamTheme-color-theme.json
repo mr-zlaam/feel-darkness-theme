@@ -321,7 +321,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#80fff9",
+        "foreground": "#89efff",
         "fontStyle": "bold"
       }
     },
@@ -387,7 +387,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#c0c0c0",
+        "foreground": "#FFFF00",
         "fontStyle": "italic bold underline"
       }
     },
@@ -491,7 +491,7 @@
         "source.zig keyword.structure"
       ],
       "settings": {
-        "foreground": "#ddff00",
+        "foreground": "#FFFF00",
         "fontStyle": "italic bold "
       }
     },
