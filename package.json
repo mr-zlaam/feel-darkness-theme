@@ -5,6 +5,9 @@
   "version": "0.0.5",
   "publisher": "zlaam-dev",
   "icon": "images/128x128-logo.jpg",
+  "scripts": {
+    "generate-theme": "vsce package"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
